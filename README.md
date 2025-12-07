@@ -1,99 +1,107 @@
 <h1 align="center">👋 Hi, I'm Ankit Kumar Singh</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Cyber Security Student</h3>
+<h3 align="center">MERN Stack Developer | Full Stack Intern | Cyber Security Student</h3>
 
-<p align="center">
-  <a href="mailto:ankitmeofficial@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  &nbsp;&nbsp;
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+I'm a MERN Stack Developer passionate about building secure, scalable and high-performance applications.  
+💼 Full Stack Intern @ Supraja Technologies  
+🏆 3rd place in national hackathon among 80+ teams  
+🎓 B.E CSE (Cyber Security), Bangalore  
+📧 Reach me at: **ankitmeofficial@gmail.com**
+
+---
+
+### Connect with me:
+<p>
   <a href="https://linkedin.com/in/ankit-kumar-singh-2a3a29245">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/anktimeofficial">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+  <a href="mailto:ankitmeofficial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
----
-## 🔥 About Me
-I am a Full Stack Developer with hands-on experience gained through internships, hackathons, and real-world projects like **CampusFolio** and **SkillUp EduPlay**.  
-I specialize in building **secure, scalable, and high-performance applications** with clean architecture.
+</td>
 
-## 🛠️ Tech Stack
-
-### **Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,java" />
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap" />
-
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### **Database**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### **Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260">
+</td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Internship Experience
+## 🔥 Skills and Technologies
 
-### **Supraja Technologies — Full Stack Developer Intern**  
-📍 *Bangalore, India (Sep 2024 – Dec 2024)*
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- Built **secure authentication** using Node.js, Express.js, JWT  
-- Improved API response time by **25%** using optimized routing  
-- Reduced React code duplication by **40%** through reusable components  
-- Implemented backend validation + error middleware, reducing failures by **30%**
+      <table>
+        <tr>
+          <th>Languages</th>
+          <th>Frontend Development</th>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" height="35"/>
+          </td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" height="35"/>
+          </td>
+        </tr>
+
+        <tr>
+          <th>Backend Development</th>
+          <th>Database</th>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://skillicons.dev/icons?i=nodejs,express" height="35"/>
+          </td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="35"/>
+          </td>
+        </tr>
+
+        <tr>
+          <th>AI & Deep Learning</th>
+          <th>Other Tools</th>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="35"/>
+          </td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" height="35"/>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 GitHub Stats
 
-### 🔹 **SkillUp EduPlay — Interactive Educational Game**
-⭐ Achieved **3rd place** among 80+ teams  
-- Improved loading time by **20%** via state optimization & memoization  
-- Scalable component architecture supporting **3× more users**  
-- Implemented game logic with JWT-secured APIs  
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=anktimeofficial&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://streak-stats.demolab.com/?user=anktimeofficial&theme=tokyonight" />
+</p>
 
-🔗 *Repo Link Coming Soon*
-
----
-
-### 🔹 **CampusFolio — Student Placement Management Portal**
-- JWT authentication with refresh token rotation  
-- Automated email workflows using Nodemailer (reduced manual work by **70%**)  
-- Optimized Express routing improving CRUD performance by **25%**  
-- Smooth UI using Axios + React state patterns  
-
-🔗 *Repo Link Coming Soon*
-
----
-
-## 🏆 Achievements
-- 🥉 **3rd place** at national-level hackathon (80+ teams)  
-- ⚡ Built real-time mechanics using React + Node  
-- 🚀 Optimized MongoDB queries to achieve **300ms leaderboard update**  
-- 👨‍🏫 Active **Sanchar Mitra (DoT)** volunteer for telecom awareness  
-- 🤝 NSS Volunteer since 2023  
-
----
-
-- 🌍 Based in **Bangalore, India**  
-- 🎓 B.E in CSE (Cyber Security) — Sambhram Institute of Technology  
-- 💼 Ex–Full Stack Intern @ Supraja Technologies  
-- 🏆 Secured **3rd place** in a national-level hackathon  
-- 💡 Passionate about system design, authentication, optimization, and problem-solving
-
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/ankit-kumar-singh-2a3a29245"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:ankitmeofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/anktimeofficial"><img src="https://skillicons.dev/icons?i=github" /></a>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=anktimeofficial&layout=compact&theme=tokyonight" />
 </p>
 
 ---
