@@ -10,16 +10,8 @@
 ---
 
 ## 🔥 About Me
-I am a MERN Stack Developer with hands-on experience gained through internships, hackathons, and real-world projects like **CampusFolio** and **SkillUp EduPlay**.  
+I am a Full Stack Developer with hands-on experience gained through internships, hackathons, and real-world projects like **CampusFolio** and **SkillUp EduPlay**.  
 I specialize in building **secure, scalable, and high-performance applications** with clean architecture.
-
-- 🌍 Based in **Bangalore, India**  
-- 🎓 B.E in CSE (Cyber Security) — Sambhram Institute of Technology  
-- 💼 Ex–Full Stack Intern @ Supraja Technologies  
-- 🏆 Secured **3rd place** in a national-level hackathon  
-- 💡 Passionate about system design, authentication, optimization, and problem-solving
-
----
 
 ## 🛠️ Tech Stack
 
@@ -80,6 +72,14 @@ I specialize in building **secure, scalable, and high-performance applications**
 - 🚀 Optimized MongoDB queries to achieve **300ms leaderboard update**  
 - 👨‍🏫 Active **Sanchar Mitra (DoT)** volunteer for telecom awareness  
 - 🤝 NSS Volunteer since 2023  
+
+---
+
+- 🌍 Based in **Bangalore, India**  
+- 🎓 B.E in CSE (Cyber Security) — Sambhram Institute of Technology  
+- 💼 Ex–Full Stack Intern @ Supraja Technologies  
+- 🏆 Secured **3rd place** in a national-level hackathon  
+- 💡 Passionate about system design, authentication, optimization, and problem-solving
 
 ---
 
