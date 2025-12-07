@@ -32,7 +32,7 @@ I specialize in building **secure, scalable, and high-performance applications**
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### **Database**
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ### **Tools & DevOps**
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
