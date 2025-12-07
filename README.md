@@ -3,15 +3,15 @@
 
 <p align="center">
   <a href="mailto:ankitmeofficial@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ankit-kumar-singh-2a3a29245">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anktimeofficial">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="35" />
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
