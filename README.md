@@ -89,20 +89,17 @@ I specialize in building **secure, scalable, and high-performance applications**
 - 🏆 Secured **3rd place** in a national-level hackathon  
 - 💡 Passionate about system design, authentication, optimization, and problem-solving
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anktimeofficial&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=anktimeofficial&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=anktimeofficial&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://streak-stats.demolab.com/?user=anktimeofficial&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anktimeofficial&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=anktimeofficial&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p align="left">
