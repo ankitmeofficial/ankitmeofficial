@@ -1,10 +1,18 @@
 <h1 align="center">👋 Hi, I'm Ankit Kumar Singh</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Intern | Cyber Security Student</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Cyber Security Student</h3>
 
 <p align="center">
-  <a href="mailto:ankitmeofficial@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/ankit-kumar-singh-2a3a29245">LinkedIn</a> •
-  <a href="https://github.com/anktimeofficial">GitHub</a>
+  <a href="mailto:ankitmeofficial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankit-kumar-singh-2a3a29245">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anktimeofficial">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
 ---
