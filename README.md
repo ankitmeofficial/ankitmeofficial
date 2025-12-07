@@ -109,13 +109,6 @@ I specialize in building **secure, scalable, and high-performance applications**
   </a>
 </p>
 
-    </td>
-
-    <!-- RIGHT SIDE CAT GIF -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280">
-    </td>
-
   </tr>
 </table>
 
