@@ -3,20 +3,19 @@
 
 <p align="center">
   <a href="mailto:ankitmeofficial@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ankit-kumar-singh-2a3a29245">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anktimeofficial">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="35" />
   </a>
 </p>
 
 ---
-
 ## 🔥 About Me
 I am a Full Stack Developer with hands-on experience gained through internships, hackathons, and real-world projects like **CampusFolio** and **SkillUp EduPlay**.  
 I specialize in building **secure, scalable, and high-performance applications** with clean architecture.
@@ -88,17 +87,6 @@ I specialize in building **secure, scalable, and high-performance applications**
 - 💼 Ex–Full Stack Intern @ Supraja Technologies  
 - 🏆 Secured **3rd place** in a national-level hackathon  
 - 💡 Passionate about system design, authentication, optimization, and problem-solving
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=anktimeofficial&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://streak-stats.demolab.com/?user=anktimeofficial&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=anktimeofficial&layout=compact&theme=tokyonight" />
-</p>
 
 
 ## 🌐 Connect With Me
